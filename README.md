@@ -27,13 +27,3 @@
 | HTML5, CSS3, JavaScript | Font Awesome Icons | Vercel |
 
 ---
-
-## 📂 Project Structure
-###  Project Structure
-
-```text
-Portfolio/
-── index.html          # Main HTML structure
-├── style.css           # Styling, animations & responsive design
-├── script.js           # Form handling & interactive features
-└── assets/             # Images (profile, projects, certificates)
