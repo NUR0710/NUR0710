@@ -9,16 +9,17 @@
 
 ##  What's Inside
 
-###  Design & Features
-- **Lavender & Red Theme** - Clean, modern aesthetic with smooth scroll animations
-- **Fully Responsive** - Flawless experience across mobile, tablet, and desktop
-- **Interactive Elements** - Hover effects, floating animations, and engaging UI
-- **Project Showcase** - Deep dives into my university projects:
-  - Stress Level Analyzer (ML-powered)
-  - Log Processing Engine (Multi-threaded)
-  - E-commerce Platform (Full-stack)
-- **Certifications Hub** - 7+ certifications in AI, Cloud, and Web Development
-- **Working Contact Form** - Powered by Formspree for instant messaging
+###  Design & Key Features
+
+*   **Modern UI/UX Design** - Built with a clean, professional aesthetic and smooth scroll animations for an engaging user experience.
+*   **Fully Responsive** - Optimized for a seamless experience across all devices, including mobile, tablet, and desktop.
+*   **Interactive Interface** - Features dynamic hover effects, CSS animations, and intuitive navigation.
+*   **Project Showcase** - Comprehensive case studies of my technical builds, including:
+    *   Stress Level Analyzer (ML-powered)
+    *   Log Processing Engine (Multi-threaded)
+    *   E-commerce Platform (Full-stack)
+*   **Continuous Learning** - A dedicated section showcasing 7+ industry-recognized certifications in AI, Cloud Computing, and Web Development.
+*   **Integrated Contact System** - A fully functional communication channel powered by Formspree for direct inquiries.
 
 ###  Tech Stack
 | Frontend | Tools | Deployment |
